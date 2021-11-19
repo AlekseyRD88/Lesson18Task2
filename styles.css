@@ -14,7 +14,7 @@
    cursor: pointer;
    border: none;
    margin: 64px;
-   
+   text-align: center;
 }
 .custom-button:hover {
    color: darkcyan;
